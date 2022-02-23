@@ -8,11 +8,6 @@ characters from a set.
  * Shareable links of sorter results.
  * Versioning of sorter data - you may want to add characters and resources over time. Versioning keeps shareable links valid even if the base character data is changed.
 
-The version in this repo is built for characters from the
-[Hyperdimension Neptunia](https://en.wikipedia.org/wiki/Hyperdimension_Neptunia)
-game series, but the sorter can be easily edited to create any custom sorter
-desired.
-
 This was forked from [execfera/charasort](https://github.com/execfera/charasort)
 which is a character sorter dedicated to the
 [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project) game series.
