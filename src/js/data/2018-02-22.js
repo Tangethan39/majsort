@@ -199,7 +199,7 @@ dataSet[dataSetVersion].characterData = [
    },
   },
   {
-    name: "teru Miyanaga",
+    name: "Teru Miyanaga",
     img : "DLK3AOE.png",
     opts: {
       gender: ['female'],
